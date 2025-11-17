@@ -1,9 +1,3 @@
-Great — I can turn this into a clean, professional **README.md** for your GitHub repo.
-
-Here is a polished version you can copy directly into your `README.md`.
-
----
-
 # 📌 **Point-Supervised Crowd Detection — UCF Dataset Adaptation**
 
 This repository adapts the original implementation from
